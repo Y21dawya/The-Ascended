@@ -1,10 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: {{your plugin name here}}
-Upstream-Contact: {{your name here}} <{{your email here}}>
-Source: {{your plugin github url here}}
+Upstream-Name: The Ascended
+Upstream-Contact: Daniel Wyatt <y21dawya@latymer.co.uk>
+Source: https://github.com/Y21dawya/The-Ascended/
 
 Files: *
-Copyright: {{your name and email again}}
+Copyright: {Daniel Wyatt, y21dawya@latymer.co.uk}
 
 Files:
  icon*.png
