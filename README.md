@@ -1,7 +1,7 @@
 # plugin-template
 This repository serves as a basic template to be used when creating a plugin for the game Endless Sky. Fork it and start modding!
 
-[Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
+[My other code - currently non-ES code only](https://github.com/Y21dawya?tab=repositories)
 
 
 ## Things to do after forking:
